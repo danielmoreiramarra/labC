@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": true,
       "externalConsole": false,
-      "cwd": "/Users/danielmoreiramarra/Documents/Faculdade /Trabalhos/Programação Procedimental (C)/labC",
-      "program": "/Users/danielmoreiramarra/Documents/Faculdade /Trabalhos/Programação Procedimental (C)/labC/build/Debug/outDebug",
+      "cwd": "/Users/danielmoreiramarra/Documents/Faculdade/Trabalhos/Programação Procedimental (C)/labC",
+      "program": "/Users/danielmoreiramarra/Documents/Faculdade/Trabalhos/Programação Procedimental (C)/labC/build/Debug/outDebug",
       "MIMode": "gdb"
     }
   ]
